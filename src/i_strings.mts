@@ -17,3 +17,7 @@
 export interface I_String {
   toString(): string;
 }
+
+export interface I_Named {
+  getName(): string;
+}
