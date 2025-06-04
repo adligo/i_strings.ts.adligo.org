@@ -1,0 +1,29 @@
+{
+  "author": "Scott Morgan",
+  "bin": {
+    "i_obj": "./dist/i_strings.mjs"
+  },
+  "bugs": {
+    "url": "https://github.com/adligo/i_strings.ts.adligo.org/issues"
+  },
+  "description": "Interfaces for Strings, toString etc.",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "homepage": "https://github.com/adligo/i_strings.ts.adligo.org#readme",
+  "keywords": [
+    "symbolic",
+    "link",
+    "linking",
+    "shared",
+    "modules"
+  ],
+  "license": "Apache-2.0",
+  "name": "@ts.adligo.org/i_strings",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adligo/i_strings.ts.adligo.org.git"
+  },
+  "type": "module",
+  "version": "1.1.4"
+}
