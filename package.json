@@ -2,7 +2,7 @@
   "author": "Scott Morgan",
   "bin": {
     "i_obj.mjs": "./dist/i_strings.mjs",
-    "i_obj.mts": "./src/i_strings.mjs"
+    "i_obj.mts": "./src/i_strings.mts"
   },
   "bugs": {
     "url": "https://github.com/adligo/i_strings.ts.adligo.org/issues"
@@ -32,5 +32,5 @@
   "sharedNodeModuleProjectSLinkEnvVar": ["TESTS4TS_NODE_MODULE_SLINK"],
   "sharedNodeModuleProjectSLinks": ["slink_group_deps.ts.adligo.org", "fab_group_deps.ts.adligo.org"],
   "type": "module",
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
