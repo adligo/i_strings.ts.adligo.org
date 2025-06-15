@@ -15,6 +15,13 @@
   */
 
 export interface I_String {
+  /**
+   * Indicates to Tests4ts that the toString has been overridden,
+   * if this is not present, Tests4ts will call JSON.stringify 
+   * on your objects as it's more informative.
+   */
+  hasToStringOverride(): boolean;
+  
   toString(): string;
 }
 
